@@ -1,0 +1,81 @@
+# Arduino
+*.elf
+*.hex
+*.eep
+*.bin
+*.a
+*.app
+*.i
+*.ii
+*.s
+*.d
+*.o
+*.lst
+*.sym
+*.lss
+*.map
+*.cpp.dep
+*.ino.dep
+*.elf.d
+*.ino.bin
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build directories
+build/
+Debug/
+Release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PlatformIO
+.pio/
+.platformio/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary files
+*~
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# Arduino IDE
+preproc/ctags_target_for_gcc_minus_e.cpp
+sketch/
