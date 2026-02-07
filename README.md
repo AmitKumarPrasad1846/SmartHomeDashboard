@@ -62,3 +62,12 @@ A beautiful, responsive web-based smart home control panel with sunset glass the
    ```cpp
    #define WIFI_SSID "Your_WiFi_SSID"
    #define WIFI_PASSWORD "Your_WiFi_Password"
+
+---
+
+**Made with ❤️ by [Amit Kumar Prasad](https://www.linkedin.com/in/amit-kumar-prasad-00b297369/)**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-prasad-00b297369/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AmitKumarPrasad1846)
+
+*If you find this project useful, please give it a ⭐ on GitHub!*
